@@ -1,5 +1,6 @@
 new
 new conflict
+new line from person1
 You wake up in an office! You are hungry and looking for some 
 TiTap! The manager has some, hidden somewhere!
 
